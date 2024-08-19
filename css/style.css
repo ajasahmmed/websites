@@ -215,7 +215,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/banner2.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -569,6 +569,7 @@ button {
     text-align: center;
     font-weight: bold;
     padding-bottom: 0px;
+    
 }
 
 .about_taital_box {
@@ -580,6 +581,7 @@ button {
     box-shadow: 0px 0px 30px 0px;
     position: absolute;
     top: 1550px;
+    display: none;
 }
 
 .image_iman {
@@ -589,6 +591,8 @@ button {
 
 .about_img {
     width: 100%;
+    display: none;
+    
 }
 
 .about_taital_1 {
